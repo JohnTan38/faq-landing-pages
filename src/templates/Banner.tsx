@@ -36,7 +36,7 @@ const Banner = () => {
         buttonContainerStyle={{ display: 'flex', gap: '1rem' }}
         buttons={[
           <Link
-            href="https://esker-pending-payment-documentation-git-master-johntan38s-projects.vercel.app"
+            href="https://pending-payment-documentation-git-master-johntan38s-projects.vercel.app"
             key="doc-link"
           >
             <Button>Documentation</Button>
