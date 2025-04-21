@@ -14,7 +14,7 @@ const Footer = () => (
         </li>
 
         <li>
-          <Link href="https://esker-pending-payment-documentation-git-master-johntan38s-projects.vercel.app">
+          <Link href="https://pending-payment-documentation-git-master-johntan38s-projects.vercel.app">
             Docs
           </Link>
         </li>
